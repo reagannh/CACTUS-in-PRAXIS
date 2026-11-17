@@ -1,2 +1,78 @@
 # CACTUS-in-PRAXIS
 record of cactus for private use in tracking
+
+PROJECT CARD
+Name: Reagan
+Date: 17 Nov 2026
+
+## Case study (topic, place, period):
+Public threads on X in which users tag @grok either to generate/edit an
+image from text, or to describe/explain an image they post.
+May–Nov 2026.
+
+## Main research question:
+In Grok's two-way transduction between text and image, which meanings
+are preserved, and which are lost or altered? Are these changes
+symmetrical across directions, and who is affected?
+
+### Sub-question 1:
+Boundary — For different types of meaning (objects, actions, quantity,
+negation, abstract concepts, emotion, political references), what share
+is preserved in text→image vs. image→text? Which types pass in only one
+direction?
+
+### Sub-question 2:
+Process — What does Grok add (unrequested elements in generated images;
+interpretations or judgements in image descriptions) and what does it
+omit, in each direction?
+
+### Sub-question 3:
+Impact (pol com) — When content involves real people, specific groups, or
+political issues, how do outputs and reply-thread reactions differ?
+  3a. When women are involved, do outputs sexualise or demean them,
+      and does this differ by direction? - walkthrough on Nov 17
+
+## Structure I used (or "my own"):
+Comparison (text→image vs. image→text)   [check]
+
+### Data:
+- What I have / will get: Self-collected X threads tagging @grok
+  (original request, input/output images or text, replies).
+- What one row is: One input→output pair (meta info including post ID, time, direction,
+  input text, input image link, output text/image link, turn number,
+  engagement, reply count).
+- Roughly how many rows: ~500–1,000 pairs for a pilot (my concern is the data will overweight and need to narrow down)
+- Where it comes from: X/Twitter (collection plan to confirm with
+  supervisor).
+- Ethics or privacy concerns: Many requests edit or sexualise photos of
+  real people, often women; content is misogynistic. Need de-identification,
+  rules on storing real-person images, and no pasting into AI tools.
+
+## What I would measure or compute for each sub-question:
+1. Break each input into a checklist of meaning elements; code each as
+   present / absent / altered in the output; compute preservation rate
+   by direction × meaning type.
+2. Count elements added (in output, not input) and omitted (in input,
+   not output), by direction.
+3. Label rows for real person / group / political, with "women" and
+   "sexualised or demeaning" as sub-labels; compare measures 1–2 and
+   reply sentiment across groups.
+
+What could go wrong with my data, and how I'd check:
+- **Access**: X data may be hard or costly to collect → confirm route early;
+  fall back to a smaller manual sample.
+- **Deleted posts/images** → record retrieval date; check link rot on a sample.
+- **Coding reliability** → use the same meaning-type codebook for both
+  directions; double-code a subset and check agreement.
+- **Sampling bias (viral threads over-represented)** → note how threads
+  were found.
+
+## Which weeks of CACTUS help most:
+Week 2 (cleaning), Week 4 (collecting data, ethics), Week 5 (text
+analysis), Week 6 (AI as annotator), Week 7 image track.   [check]
+
+## How I'll use AI on this project (and how I'll check it):
+To help write collection/cleaning code and as a first-pass annotator;
+check by comparing AI labels with my own on a sample, and keep a
+prompt-and-verification log. No participant data or keys pasted into
+AI chats.
