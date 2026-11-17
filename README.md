@@ -24,7 +24,7 @@ direction?
 ### Sub-question 2:
 Process — What does Grok add (unrequested elements in generated images;
 interpretations or judgements in image descriptions) and what does it
-omit, in each direction?
+omit, in each direction? (Kress- gain and loss)
 
 ### Sub-question 3:
 Impact (pol com) — When content involves real people, specific groups, or
