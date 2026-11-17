@@ -6,8 +6,9 @@ Name: Reagan
 Date: 17 Nov 2026
 
 ## Case study (topic, place, period):
-Public threads on X in which users tag @grok either to generate/edit an
-image from text, or to describe/explain an image they post.
+English-language public threads on X in which users tag @grok either to
+generate/edit an image from text, or to describe/explain an image they
+post.
 May–Nov 2026.
 
 ## Main research question:
